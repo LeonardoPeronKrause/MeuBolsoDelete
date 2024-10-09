@@ -1,5 +1,18 @@
 {
   "dependencies": {
+    "express": "^4.21.1",
+    "firebase-admin": "^12.6.0",
     "node": "^20.18.0"
-  }
+  },
+  "name": "meubolso",
+  "description": "Projeto FulStack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
