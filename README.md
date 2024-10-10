@@ -1,3 +1,3 @@
 # MeuBolso
 
- Projeto FulStack
+ Projeto FullStack
